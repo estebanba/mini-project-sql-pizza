@@ -3,11 +3,11 @@ USE mini_project_pizza;
 
 DROP TABLE IF EXISTS `pizzas`;
 CREATE TABLE `pizzas`(
-    `pizza_name_id` BIGINT NOT NULL PRIMARY KEY,
+    `pizza_name_id` VARCHAR(255) NOT NULL PRIMARY KEY,
     `pizza_name` BIGINT NOT NULL,
-    `pizza_size` BIGINT NOT NULL,
+    `pizza_size` VARCHAR(255) NOT NULL,
     `unit_price` BIGINT NOT NULL,
-    `pizza_category` BIGINT NOT NULL,
+    `pizza_category` VARCHAR(255) NOT NULL,
     `ingredients` BIGINT NOT NULL
 );
 ALTER TABLE
