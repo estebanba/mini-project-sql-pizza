@@ -1,92 +1,92 @@
-pizza_name_id,unit_price,pizza_size,pizza_category,pizza_ingredients,pizza_name
-hawaiian_m,13.25,M,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
-classic_dlx_m,16.0,M,Classic,"Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon",The Classic Deluxe Pizza
-five_cheese_l,18.5,L,Veggie,"Mozzarella Cheese, Provolone Cheese, Smoked Gouda Cheese, Romano Cheese, Blue Cheese, Garlic",The Five Cheese Pizza
-ital_supr_l,20.75,L,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
-mexicana_m,16.0,M,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
-thai_ckn_l,20.75,L,Chicken,"Chicken, Pineapple, Tomatoes, Red Peppers, Thai Sweet Chilli Sauce",The Thai Chicken Pizza
-ital_supr_m,16.5,M,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
-prsc_argla_l,20.75,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
-bbq_ckn_s,12.75,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
-the_greek_s,12.0,S,Classic,"Kalamata Olives, Feta Cheese, Tomatoes, Garlic, Beef Chuck Roast, Red Onions",The Greek Pizza
-spinach_supr_s,12.5,S,Supreme,"Spinach, Red Onions, Pepperoni, Tomatoes, Artichokes, Kalamata Olives, Garlic, Asiago Cheese",The Spinach Supreme Pizza
-classic_dlx_s,12.0,S,Classic,"Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon",The Classic Deluxe Pizza
-green_garden_s,12.0,S,Veggie,"Spinach, Mushrooms, Tomatoes, Green Olives, Feta Cheese",The Green Garden Pizza
-ital_cpcllo_l,20.5,L,Classic,"Capocollo, Red Peppers, Tomatoes, Goat Cheese, Garlic, Oregano",The Italian Capocollo Pizza
-ital_supr_s,12.5,S,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
-mexicana_s,12.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
-spicy_ital_l,20.75,L,Supreme,"Capocollo, Tomatoes, Goat Cheese, Artichokes, Peperoncini verdi, Garlic",The Spicy Italian Pizza
-spin_pesto_l,20.75,L,Veggie,"Spinach, Artichokes, Tomatoes, Sun-dried Tomatoes, Garlic, Pesto Sauce",The Spinach Pesto Pizza
-veggie_veg_s,12.0,S,Veggie,"Mushrooms, Tomatoes, Red Peppers, Green Peppers, Red Onions, Zucchini, Spinach, Garlic",The Vegetables + Vegetables Pizza
-mexicana_l,20.25,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
-southw_ckn_l,20.75,L,Chicken,"Chicken, Tomatoes, Red Peppers, Red Onions, Jalapeno Peppers, Corn, Cilantro, Chipotle Sauce",The Southwest Chicken Pizza
-bbq_ckn_l,20.75,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
-cali_ckn_l,20.75,L,Chicken,"Chicken, Artichoke, Spinach, Garlic, Jalapeno Peppers, Fontina Cheese, Gouda Cheese",The California Chicken Pizza
-cali_ckn_m,16.75,M,Chicken,"Chicken, Artichoke, Spinach, Garlic, Jalapeno Peppers, Fontina Cheese, Gouda Cheese",The California Chicken Pizza
-pepperoni_l,15.25,L,Classic,"Mozzarella Cheese, Pepperoni",The Pepperoni Pizza
-cali_ckn_s,12.75,S,Chicken,"Chicken, Artichoke, Spinach, Garlic, Jalapeno Peppers, Fontina Cheese, Gouda Cheese",The California Chicken Pizza
-ckn_pesto_l,20.75,L,Chicken,"Chicken, Tomatoes, Red Peppers, Spinach, Garlic, Pesto Sauce",The Chicken Pesto Pizza
-big_meat_s,12.0,S,Classic,"Bacon, Pepperoni, Italian Sausage, Chorizo Sausage",The Big Meat Pizza
-soppressata_l,20.75,L,Supreme,"Soppressata Salami, Fontina Cheese, Mozzarella Cheese, Mushrooms, Garlic",The Soppressata Pizza
-four_cheese_l,17.95,L,Veggie,"Ricotta Cheese, Gorgonzola Piccante Cheese, Mozzarella Cheese, Parmigiano Reggiano Cheese, Garlic",The Four Cheese Pizza
-napolitana_s,12.0,S,Classic,"Tomatoes, Anchovies, Green Olives, Red Onions, Garlic",The Napolitana Pizza
-calabrese_m,16.25,M,Supreme,"?duja Salami, Pancetta, Tomatoes, Red Onions, Friggitello Peppers, Garlic",The Calabrese Pizza
-four_cheese_m,14.75,M,Veggie,"Ricotta Cheese, Gorgonzola Piccante Cheese, Mozzarella Cheese, Parmigiano Reggiano Cheese, Garlic",The Four Cheese Pizza
-ital_veggie_s,12.75,S,Veggie,"Eggplant, Artichokes, Tomatoes, Zucchini, Red Peppers, Garlic, Pesto Sauce",The Italian Vegetables Pizza
-mediterraneo_m,16.0,M,Veggie,"Spinach, Artichokes, Kalamata Olives, Sun-dried Tomatoes, Feta Cheese, Plum Tomatoes, Red Onions",The Mediterranean Pizza
-peppr_salami_s,12.5,S,Supreme,"Genoa Salami, Capocollo, Pepperoni, Tomatoes, Asiago Cheese, Garlic",The Pepper Salami Pizza
-spinach_fet_l,20.25,L,Veggie,"Spinach, Mushrooms, Red Onions, Feta Cheese, Garlic",The Spinach and Feta Pizza
-napolitana_l,20.5,L,Classic,"Tomatoes, Anchovies, Green Olives, Red Onions, Garlic",The Napolitana Pizza
-sicilian_l,20.25,L,Supreme,"Coarse Sicilian Salami, Tomatoes, Green Olives, Luganega Sausage, Onions, Garlic",The Sicilian Pizza
-ital_cpcllo_m,16.0,M,Classic,"Capocollo, Red Peppers, Tomatoes, Goat Cheese, Garlic, Oregano",The Italian Capocollo Pizza
-southw_ckn_s,12.75,S,Chicken,"Chicken, Tomatoes, Red Peppers, Red Onions, Jalapeno Peppers, Corn, Cilantro, Chipotle Sauce",The Southwest Chicken Pizza
-bbq_ckn_m,16.75,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
-pepperoni_m,12.5,M,Classic,"Mozzarella Cheese, Pepperoni",The Pepperoni Pizza
-prsc_argla_s,12.5,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
-sicilian_m,16.25,M,Supreme,"Coarse Sicilian Salami, Tomatoes, Green Olives, Luganega Sausage, Onions, Garlic",The Sicilian Pizza
-veggie_veg_l,20.25,L,Veggie,"Mushrooms, Tomatoes, Red Peppers, Green Peppers, Red Onions, Zucchini, Spinach, Garlic",The Vegetables + Vegetables Pizza
-ckn_alfredo_s,12.75,S,Chicken,"Chicken, Red Onions, Red Peppers, Mushrooms, Asiago Cheese, Alfredo Sauce",The Chicken Alfredo Pizza
-pepperoni_s,9.75,S,Classic,"Mozzarella Cheese, Pepperoni",The Pepperoni Pizza
-green_garden_l,20.25,L,Veggie,"Spinach, Mushrooms, Tomatoes, Green Olives, Feta Cheese",The Green Garden Pizza
-green_garden_m,16.0,M,Veggie,"Spinach, Mushrooms, Tomatoes, Green Olives, Feta Cheese",The Green Garden Pizza
-pep_msh_pep_l,17.5,L,Classic,"Pepperoni, Mushrooms, Green Peppers","The Pepperoni, Mushroom, and Peppers Pizza"
-hawaiian_s,10.5,S,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
-peppr_salami_m,16.5,M,Supreme,"Genoa Salami, Capocollo, Pepperoni, Tomatoes, Asiago Cheese, Garlic",The Pepper Salami Pizza
-ckn_alfredo_m,16.75,M,Chicken,"Chicken, Red Onions, Red Peppers, Mushrooms, Asiago Cheese, Alfredo Sauce",The Chicken Alfredo Pizza
-peppr_salami_l,20.75,L,Supreme,"Genoa Salami, Capocollo, Pepperoni, Tomatoes, Asiago Cheese, Garlic",The Pepper Salami Pizza
-spin_pesto_s,12.5,S,Veggie,"Spinach, Artichokes, Tomatoes, Sun-dried Tomatoes, Garlic, Pesto Sauce",The Spinach Pesto Pizza
-thai_ckn_m,16.75,M,Chicken,"Chicken, Pineapple, Tomatoes, Red Peppers, Thai Sweet Chilli Sauce",The Thai Chicken Pizza
-classic_dlx_l,20.5,L,Classic,"Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon",The Classic Deluxe Pizza
-ckn_pesto_m,16.75,M,Chicken,"Chicken, Tomatoes, Red Peppers, Spinach, Garlic, Pesto Sauce",The Chicken Pesto Pizza
-the_greek_xl,25.5,XL,Classic,"Kalamata Olives, Feta Cheese, Tomatoes, Garlic, Beef Chuck Roast, Red Onions",The Greek Pizza
-hawaiian_l,16.5,L,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
-pep_msh_pep_s,11.0,S,Classic,"Pepperoni, Mushrooms, Green Peppers","The Pepperoni, Mushroom, and Peppers Pizza"
-spinach_supr_m,16.5,M,Supreme,"Spinach, Red Onions, Pepperoni, Tomatoes, Artichokes, Kalamata Olives, Garlic, Asiago Cheese",The Spinach Supreme Pizza
-prsc_argla_m,16.5,M,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
-mediterraneo_l,20.25,L,Veggie,"Spinach, Artichokes, Kalamata Olives, Sun-dried Tomatoes, Feta Cheese, Plum Tomatoes, Red Onions",The Mediterranean Pizza
-southw_ckn_m,16.75,M,Chicken,"Chicken, Tomatoes, Red Peppers, Red Onions, Jalapeno Peppers, Corn, Cilantro, Chipotle Sauce",The Southwest Chicken Pizza
-pep_msh_pep_m,14.5,M,Classic,"Pepperoni, Mushrooms, Green Peppers","The Pepperoni, Mushroom, and Peppers Pizza"
-sicilian_s,12.25,S,Supreme,"Coarse Sicilian Salami, Tomatoes, Green Olives, Luganega Sausage, Onions, Garlic",The Sicilian Pizza
-spicy_ital_s,12.5,S,Supreme,"Capocollo, Tomatoes, Goat Cheese, Artichokes, Peperoncini verdi, Garlic",The Spicy Italian Pizza
-thai_ckn_s,12.75,S,Chicken,"Chicken, Pineapple, Tomatoes, Red Peppers, Thai Sweet Chilli Sauce",The Thai Chicken Pizza
-spinach_supr_l,20.75,L,Supreme,"Spinach, Red Onions, Pepperoni, Tomatoes, Artichokes, Kalamata Olives, Garlic, Asiago Cheese",The Spinach Supreme Pizza
-ital_veggie_l,21.0,L,Veggie,"Eggplant, Artichokes, Tomatoes, Zucchini, Red Peppers, Garlic, Pesto Sauce",The Italian Vegetables Pizza
-veggie_veg_m,16.0,M,Veggie,"Mushrooms, Tomatoes, Red Peppers, Green Peppers, Red Onions, Zucchini, Spinach, Garlic",The Vegetables + Vegetables Pizza
-the_greek_m,16.0,M,Classic,"Kalamata Olives, Feta Cheese, Tomatoes, Garlic, Beef Chuck Roast, Red Onions",The Greek Pizza
-ckn_pesto_s,12.75,S,Chicken,"Chicken, Tomatoes, Red Peppers, Spinach, Garlic, Pesto Sauce",The Chicken Pesto Pizza
-spinach_fet_s,12.0,S,Veggie,"Spinach, Mushrooms, Red Onions, Feta Cheese, Garlic",The Spinach and Feta Pizza
-spicy_ital_m,16.5,M,Supreme,"Capocollo, Tomatoes, Goat Cheese, Artichokes, Peperoncini verdi, Garlic",The Spicy Italian Pizza
-ital_veggie_m,16.75,M,Veggie,"Eggplant, Artichokes, Tomatoes, Zucchini, Red Peppers, Garlic, Pesto Sauce",The Italian Vegetables Pizza
-ital_cpcllo_s,12.0,S,Classic,"Capocollo, Red Peppers, Tomatoes, Goat Cheese, Garlic, Oregano",The Italian Capocollo Pizza
-mediterraneo_s,12.0,S,Veggie,"Spinach, Artichokes, Kalamata Olives, Sun-dried Tomatoes, Feta Cheese, Plum Tomatoes, Red Onions",The Mediterranean Pizza
-spinach_fet_m,16.0,M,Veggie,"Spinach, Mushrooms, Red Onions, Feta Cheese, Garlic",The Spinach and Feta Pizza
-napolitana_m,16.0,M,Classic,"Tomatoes, Anchovies, Green Olives, Red Onions, Garlic",The Napolitana Pizza
-spin_pesto_m,16.5,M,Veggie,"Spinach, Artichokes, Tomatoes, Sun-dried Tomatoes, Garlic, Pesto Sauce",The Spinach Pesto Pizza
-brie_carre_s,23.65,S,Supreme,"Brie Carre Cheese, Prosciutto, Caramelized Onions, Pears, Thyme, Garlic",The Brie Carre Pizza
-ckn_alfredo_l,20.75,L,Chicken,"Chicken, Red Onions, Red Peppers, Mushrooms, Asiago Cheese, Alfredo Sauce",The Chicken Alfredo Pizza
-calabrese_s,12.25,S,Supreme,"?duja Salami, Pancetta, Tomatoes, Red Onions, Friggitello Peppers, Garlic",The Calabrese Pizza
-the_greek_l,20.5,L,Classic,"Kalamata Olives, Feta Cheese, Tomatoes, Garlic, Beef Chuck Roast, Red Onions",The Greek Pizza
-soppressata_m,16.5,M,Supreme,"Soppressata Salami, Fontina Cheese, Mozzarella Cheese, Mushrooms, Garlic",The Soppressata Pizza
-soppressata_s,12.5,S,Supreme,"Soppressata Salami, Fontina Cheese, Mozzarella Cheese, Mushrooms, Garlic",The Soppressata Pizza
-calabrese_l,20.25,L,Supreme,"?duja Salami, Pancetta, Tomatoes, Red Onions, Friggitello Peppers, Garlic",The Calabrese Pizza
-the_greek_xxl,35.95,XXL,Classic,"Kalamata Olives, Feta Cheese, Tomatoes, Garlic, Beef Chuck Roast, Red Onions",The Greek Pizza
+id_final_pizza,pizza_name,size_id,unit_price,pizza_name_id_y
+1.2,The Hawaiian Pizza,2,13.25,1
+2.2,The Classic Deluxe Pizza,2,16.0,2
+3.3,The Five Cheese Pizza,3,18.5,3
+4.3,The Italian Supreme Pizza,3,20.75,4
+5.2,The Mexicana Pizza,2,16.0,5
+6.3,The Thai Chicken Pizza,3,20.75,6
+4.2,The Italian Supreme Pizza,2,16.5,4
+7.3,The Prosciutto and Arugula Pizza,3,20.75,7
+8.1,The Barbecue Chicken Pizza,1,12.75,8
+9.1,The Greek Pizza,1,12.0,9
+10.1,The Spinach Supreme Pizza,1,12.5,10
+2.1,The Classic Deluxe Pizza,1,12.0,2
+11.1,The Green Garden Pizza,1,12.0,11
+12.3,The Italian Capocollo Pizza,3,20.5,12
+4.1,The Italian Supreme Pizza,1,12.5,4
+5.1,The Mexicana Pizza,1,12.0,5
+13.3,The Spicy Italian Pizza,3,20.75,13
+14.3,The Spinach Pesto Pizza,3,20.75,14
+15.1,The Vegetables + Vegetables Pizza,1,12.0,15
+5.3,The Mexicana Pizza,3,20.25,5
+16.3,The Southwest Chicken Pizza,3,20.75,16
+8.3,The Barbecue Chicken Pizza,3,20.75,8
+17.3,The California Chicken Pizza,3,20.75,17
+17.2,The California Chicken Pizza,2,16.75,17
+18.3,The Pepperoni Pizza,3,15.25,18
+17.1,The California Chicken Pizza,1,12.75,17
+19.3,The Chicken Pesto Pizza,3,20.75,19
+20.1,The Big Meat Pizza,1,12.0,20
+21.3,The Soppressata Pizza,3,20.75,21
+22.3,The Four Cheese Pizza,3,17.95,22
+23.1,The Napolitana Pizza,1,12.0,23
+24.2,The Calabrese Pizza,2,16.25,24
+22.2,The Four Cheese Pizza,2,14.75,22
+25.1,The Italian Vegetables Pizza,1,12.75,25
+26.2,The Mediterranean Pizza,2,16.0,26
+27.1,The Pepper Salami Pizza,1,12.5,27
+28.3,The Spinach and Feta Pizza,3,20.25,28
+23.3,The Napolitana Pizza,3,20.5,23
+29.3,The Sicilian Pizza,3,20.25,29
+12.2,The Italian Capocollo Pizza,2,16.0,12
+16.1,The Southwest Chicken Pizza,1,12.75,16
+8.2,The Barbecue Chicken Pizza,2,16.75,8
+18.2,The Pepperoni Pizza,2,12.5,18
+7.1,The Prosciutto and Arugula Pizza,1,12.5,7
+29.2,The Sicilian Pizza,2,16.25,29
+15.3,The Vegetables + Vegetables Pizza,3,20.25,15
+30.1,The Chicken Alfredo Pizza,1,12.75,30
+18.1,The Pepperoni Pizza,1,9.75,18
+11.3,The Green Garden Pizza,3,20.25,11
+11.2,The Green Garden Pizza,2,16.0,11
+31.3,"The Pepperoni, Mushroom, and Peppers Pizza",3,17.5,31
+1.1,The Hawaiian Pizza,1,10.5,1
+27.2,The Pepper Salami Pizza,2,16.5,27
+30.2,The Chicken Alfredo Pizza,2,16.75,30
+27.3,The Pepper Salami Pizza,3,20.75,27
+14.1,The Spinach Pesto Pizza,1,12.5,14
+6.2,The Thai Chicken Pizza,2,16.75,6
+2.3,The Classic Deluxe Pizza,3,20.5,2
+19.2,The Chicken Pesto Pizza,2,16.75,19
+9.4,The Greek Pizza,4,25.5,9
+1.3,The Hawaiian Pizza,3,16.5,1
+31.1,"The Pepperoni, Mushroom, and Peppers Pizza",1,11.0,31
+10.2,The Spinach Supreme Pizza,2,16.5,10
+7.2,The Prosciutto and Arugula Pizza,2,16.5,7
+26.3,The Mediterranean Pizza,3,20.25,26
+16.2,The Southwest Chicken Pizza,2,16.75,16
+31.2,"The Pepperoni, Mushroom, and Peppers Pizza",2,14.5,31
+29.1,The Sicilian Pizza,1,12.25,29
+13.1,The Spicy Italian Pizza,1,12.5,13
+6.1,The Thai Chicken Pizza,1,12.75,6
+10.3,The Spinach Supreme Pizza,3,20.75,10
+25.3,The Italian Vegetables Pizza,3,21.0,25
+15.2,The Vegetables + Vegetables Pizza,2,16.0,15
+9.2,The Greek Pizza,2,16.0,9
+19.1,The Chicken Pesto Pizza,1,12.75,19
+28.1,The Spinach and Feta Pizza,1,12.0,28
+13.2,The Spicy Italian Pizza,2,16.5,13
+25.2,The Italian Vegetables Pizza,2,16.75,25
+12.1,The Italian Capocollo Pizza,1,12.0,12
+26.1,The Mediterranean Pizza,1,12.0,26
+28.2,The Spinach and Feta Pizza,2,16.0,28
+23.2,The Napolitana Pizza,2,16.0,23
+14.2,The Spinach Pesto Pizza,2,16.5,14
+32.1,The Brie Carre Pizza,1,23.65,32
+30.3,The Chicken Alfredo Pizza,3,20.75,30
+24.1,The Calabrese Pizza,1,12.25,24
+9.3,The Greek Pizza,3,20.5,9
+21.2,The Soppressata Pizza,2,16.5,21
+21.1,The Soppressata Pizza,1,12.5,21
+24.3,The Calabrese Pizza,3,20.25,24
+9.5,The Greek Pizza,5,35.95,9
