@@ -1,0 +1,6 @@
+name,size,unit_price,total_quantity,total_revenue,category,quantity_percentage,revenue_percentage,revenue_quantity_ratio
+"The Thai Chicken Pizza",L,20.75,1410,29257.5,Chicken,2.84,3.58,1.26
+"The Five Cheese Pizza",L,18.5,1409,26066.5,Veggie,2.84,3.19,1.12
+"The Four Cheese Pizza",L,17.95,1316,23622.2,Veggie,2.65,2.89,1.09
+"The Spicy Italian Pizza",L,20.75,1109,23011.75,Supreme,2.24,2.81,1.26
+"The Big Meat Pizza",S,12,1914,22968,Classic,3.86,2.81,0.73
