@@ -1,3 +1,5 @@
+USE mini_project_pizza;
+
 -- Estudiamos que día se han generado más pedidos.
 SELECT y.num_week as day_week, count(o.order_id) as Total_orders, round(sum(o.total_price),2) as Total_revenue from mini_project_pizza.year_day as y
 JOIN mini_project_pizza.orders as o
